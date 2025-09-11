@@ -1,4 +1,4 @@
-# 7.2 REST API Design Principles
+# REST API Design Principles
 
 ## Core Concepts
 
